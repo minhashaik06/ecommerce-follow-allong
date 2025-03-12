@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce-follow-allong",
+  "version": "1.0.0",
+  "description": "a ecommerce app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
